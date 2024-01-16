@@ -1,0 +1,11 @@
+.{
+    .name = "extism-plugin",
+    .version = "0.0.0",
+    .dependencies = .{
+        .extism = .{
+            .url = "https://github.com/extism/zig-pdk/archive/37418e07e3e05cb476794e3f99bec67761519529.tar.gz",
+            .hash = "12200037b668c19757bdf3e56bd9c3cc14e6c0984f512a850152051e536947dee20f",
+        },
+    },
+    .paths = .{""},
+}
