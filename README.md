@@ -32,7 +32,7 @@ as well as the [Extism CLI](https://extism.org/docs/install).
 extism-init myplugin
 cd myplugin
 zig build
-extism call ./zig-out/bin/extism-plugin.wasm greet --input "Jane Doe"
+extism call ./zig-out/bin/myplugin.wasm greet --input "Jane Doe"
 ```
 
 :seedling:
