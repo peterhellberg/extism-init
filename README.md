@@ -20,6 +20,7 @@ and `.optimize` is set to `.ReleaseSmall`
 (Requires you to have [Go](https://go.dev/) installed)
 
 ```sh
+go install github.com/extism/cli/extism@latest
 go install github.com/peterhellberg/extism-init@latest
 ```
 
