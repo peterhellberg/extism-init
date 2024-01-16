@@ -1,7 +1,8 @@
 # extism-init :sparkles:
 
 This is a command line tool that acts as a companion to the
-Extism [zig-pdk](https://github.com/extism/zig-pdk/) module
+[Extism](https://extism.org/) :skull:
+[zig-pdk](https://github.com/extism/zig-pdk/) module
 for [Zig](https://ziglang.org/) :zap:
 
 `extism-init` is used to create a directory containing code
